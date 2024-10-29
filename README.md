@@ -4,7 +4,7 @@
 - Contato:matheus.rodrigues85@aluno.ce.gov.br📚
   <div>
     <ahttps://github.com/Math3usCarneir0/>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3usCarneir0&layout=compact"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3usCarneir0&layout=compact&langs_count=16"/>
         
   </div>
 
